@@ -9,7 +9,7 @@
 </tr>
 <tr>
 <td>Mallory proxy</td>
-<td><a rel="nofollow" class="external free" href="http://intrepidusgroup.com/insight/mallory/">http://intrepidusgroup.com/insight/mallory/</a></td>
+<td><a rel="nofollow" class="external free" href="https://bitbucket.org/IntrepidusGroup/mallory">https://bitbucket.org/IntrepidusGroup/mallory</a></td>
 <td>Proxy for Binary protocols</td>
 </tr>
 <tr>
