@@ -67,7 +67,7 @@
 </tr>
 <tr>
 <td>nm</td>
-<td></td>
+<td>https://linux.die.net/man/1/nm</td>
 <td>Analysis tool to display the symbol table, which includes names of functions and methods, as well as their load addresses.</td>
 </tr>
 <tr>
