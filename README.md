@@ -170,4 +170,10 @@
 <td><a rel="nofollow" class="external free" href="https://github.com/hexploitable/memscan">https://github.com/hexploitable/memscan</a></td>
 <td>A tool which allows you to easily dump iOS process memory to disk as well as searching memory for specified byte signatures</td>
 </tr>
+<tr>
+<td>Frida toolkit</td>
+<td><a rel="nofollow" class="external free" href="https://www.frida.re/docs/installation/">https://www.frida.re/docs/installation/</a></td>
+<td>dynamic code instrumentation toolkit</td>
+</tr>
+
 </table>
