@@ -72,7 +72,7 @@
 </tr>
 <tr>
 <td>sysctl</td>
-<td><a rel="nofollow" class="external free" href="https://developer.apple.com/library/mac/#documentation/Darwin/Reference">https://developer.apple.com/library/mac/#documentation/Darwin/Reference</a> /ManPages/man8/sysctl.8.html</td>
+<td><a rel="nofollow" class="external free" href="https://developer.apple.com/library/mac/#documentation/Darwin/Reference">https://developer.apple.com/documentation/installerjs/system/1812308-sysctl</a>sysctl</td>
 <td>A utility to read and change kernel state variables</td>
 </tr>
 <tr>
